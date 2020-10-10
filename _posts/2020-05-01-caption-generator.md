@@ -4,7 +4,7 @@ date: 2020-05-01
 tags: [deep learning, data science, LSTM, neural networks]
 header:
   image: "/images/caption-generator.JPG"
-excerpt: "Deep Learning"
+excerpt: "Deep Learning, Data Science, LSTM, Neural Networks"
 mathjax: "true"
 ---
 
