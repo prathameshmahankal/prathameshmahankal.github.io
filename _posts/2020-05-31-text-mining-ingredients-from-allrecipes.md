@@ -15,4 +15,4 @@ Following were the sub-tasks required:
 •	cleaning data: clean your ingredient data for further calculation. This includes, but is not limited to, removing excess white spaces, correcting for all edge cases, and correcting any remaining formatting issues
 •	calculating: what are the 10 most common ingredients used in these recipes?
 
-Github Link: [https://github.com/prathameshmahankal/text-mining-ingredients-from-allrecipes]https://github.com/prathameshmahankal/text-mining-ingredients-from-allrecipes
+Github Link: [https://github.com/prathameshmahankal/text-mining-ingredients-from-allrecipes](https://github.com/prathameshmahankal/text-mining-ingredients-from-allrecipes)
