@@ -2,7 +2,7 @@
 title: "Image Retrieval Using Caption Generator"
 date: 2018-01-28
 tags: [deep learning, data science, LSTM, neural networks]
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Deep Learning, Data Science, LSTM, Neural Networks"
 mathjax: "true"
 ---
 
