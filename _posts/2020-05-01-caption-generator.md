@@ -3,7 +3,7 @@ title: "Image Retrieval Using Caption Generator"
 date: 2020-05-01
 tags: [deep learning, data science, LSTM, neural networks]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/caption-generator.JPG"
 excerpt: "Deep Learning"
 mathjax: "true"
 ---
