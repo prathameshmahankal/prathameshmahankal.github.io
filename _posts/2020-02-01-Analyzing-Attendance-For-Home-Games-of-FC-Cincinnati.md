@@ -1,5 +1,5 @@
 ---
-title: "Analyzing-attendance-for-Home-games-of-FC-Cincinnati"
+title: "Analyzing attendance for Home games of FC Cincinnati"
 date: 2020-02-01
 tags: [data science, data analysis, sports analytics]
 header:
